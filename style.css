@@ -6,12 +6,9 @@
 }
 
 body{
-  /*background-image: linear-gradient(120deg,#487eb0,#fbc531);*/
   background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   min-height: 100vh;
 }
-
-
 .container{
   max-width: 800px;
   margin: auto;
@@ -60,12 +57,6 @@ h3{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font: {
-    
     family: $font;
-
-
 }
-/* .location-timezone {
-  border: 2px s
-  /* border-radius: 99px; */
-} */
+}
